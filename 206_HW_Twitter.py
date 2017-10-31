@@ -7,7 +7,7 @@ import twitter_info
 ## COMMENT WITH: Katarina Mazanka, katmazan
 ## Your section day/time: Thurs 6-7
 ## Any names of people you worked with on this assignment:
-
+## add commnet when ad twitter info
 
 ## Write code that uses the tweepy library to search for tweets with three different phrases of the 
 ## user's choice (should use the Python input function), and prints out the Tweet text and the 
